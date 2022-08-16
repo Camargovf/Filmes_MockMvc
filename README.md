@@ -7,7 +7,7 @@ Software para demonstrar testes com MockMvc nos Controllers (endpoints).
 
 <h1 align="center">📦 Desenvolvimento</h1>
 
-Realizado com framework SpringBoot em Java 11, gestor de dependência com Maven - uso de DevTools para agilidade durante a produção de desenvolvimento. Hibernate e JPA para persistir os dados no banco de dados MySQL, Lombok para perfomance e diminuir boiler plate code. Auxílio do ModelMapper para criação do DTO. Flyway para migração e versionamento de Query (registro) para maior domínio sobre scripts SQL. Possibilidade de negociação de conteúdo (XML/JSON) com fasterxml e com interface amigável na documentação do projeto e dos devidos endpoints com Swagger.
+Realizado com framework SpringBoot em Java 11, gestor de dependência com Maven - uso de DevTools para agilidade durante a produção de desenvolvimento. Hibernate e JPA para persistir os dados no banco de dados MySQL, Lombok para perfomance e diminuir boiler plate code. Mockito e Junit para mockar e gerar testes unitarios.
 
 <h1 align="center"> 💻 Requisitos de inicialização do projeto</h1>
 
